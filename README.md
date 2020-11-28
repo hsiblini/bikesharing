@@ -30,4 +30,4 @@ The sixth analysis is a pie chard to show the breakdown of different genders
 
 This is a map of different starting points, showing the circle sizes per starting point.
 
-(Here is a link to the dashboard) [https://public.tableau.com/profile/hamze5024#!/vizhome/BikeSharing2_16065297126840/CitibikeStatistics?publish=yes]
+(Here is a link to the dashboard)[https://public.tableau.com/profile/hamze5024#!/vizhome/BikeSharing2_16065297126840/CitibikeStatistics?publish=yes]
